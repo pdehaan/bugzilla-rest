@@ -1,0 +1,26 @@
+{
+  "name": "bugzilla-rest",
+  "description": "Simple Bugzilla REST client.",
+  "version": "1.0.0",
+  "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
+  "bugs": {
+    "url": "https://github.com/pdehaan/bugzilla-rest/issues"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "lru-cache": "^6.0.0",
+    "ms": "^2.1.2",
+    "sort-json": "^2.0.0"
+  },
+  "homepage": "https://github.com/pdehaan/bugzilla-rest#readme",
+  "keywords": [],
+  "license": "MPL-2.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/bugzilla-rest.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
